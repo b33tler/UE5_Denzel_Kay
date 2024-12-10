@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealEngine5/VR_Test/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"D:/UnrealEngine5/VR_Test/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Admin/Documents/GitHub/UE5_Denzel_Kay/VR_Test/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Admin/Documents/GitHub/UE5_Denzel_Kay/VR_Test/Content/VRTemplate/Input/Actions/IA_MoveHorizontal.uasset",
+				"C:/Users/Admin/Documents/GitHub/UE5_Denzel_Kay/VR_Test/Content/VRTemplate/Input/Actions/IA_MoveVertical.uasset",
+				"C:/Users/Admin/Documents/GitHub/UE5_Denzel_Kay/VR_Test/Content/VRTemplate/Input/Actions/IA_Jump.uasset",
+				"C:/Users/Admin/Documents/GitHub/UE5_Denzel_Kay/VR_Test/Content/VRTemplate/Input/B_InputModifier_XAxisNegativeOnly.uasset",
+				"C:/Users/Admin/Documents/GitHub/UE5_Denzel_Kay/VR_Test/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Users/Admin/Documents/GitHub/UE5_Denzel_Kay/VR_Test/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/Admin/Documents/GitHub/UE5_Denzel_Kay/VR_Test/Content/VRTemplate/Input/Actions/IA_SnapTurn.uasset",
+				"C:/Users/Admin/Documents/GitHub/UE5_Denzel_Kay/VR_Test/Content/VRTemplate/Input/Actions/IA_Turn.uasset",
+				"C:/Users/Admin/Documents/GitHub/UE5_Denzel_Kay/VR_Test/Content/VRTemplate/Input/Actions/IA_Sprint.uasset"
+			]
+		}
+	]
+}
