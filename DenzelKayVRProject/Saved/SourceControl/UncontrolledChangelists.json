@@ -13,8 +13,12 @@
 				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Input/IMC_Default.uasset",
 				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Blueprints/VRPawn.uasset",
 				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Input/Actions/IA_SnapTurn.uasset",
-				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Input/Actions/IA_Turn.uasset",
-				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Input/Actions/IA_Sprint.uasset"
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Blueprints/Pistol.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Blueprints/Projectile.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Blueprints/GrabComponent.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Input/Actions/IA_Turn.uasset"
 			]
 		}
 	]
