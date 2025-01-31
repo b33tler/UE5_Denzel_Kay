@@ -19,6 +19,9 @@
 				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Blueprints/Projectile.uasset",
 				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Blueprints/GrabComponent.uasset",
 				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Blueprints/BP_AlyxJump.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Blueprints/BP_FootstepsAI.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Input/Actions/IA_Turn.uasset"
 			]
 		}
