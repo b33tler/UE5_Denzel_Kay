@@ -22,6 +22,14 @@
 				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Blueprints/BP_AlyxJump.uasset",
 				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Blueprints/BP_FootstepsAI.uasset",
 				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Materials/M_HolographFootsteps.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Materials/MI_HolographicFootsteps001.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Materials/MI_HolographicFootsteps002.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Materials/MI_HolographicFootsteps003.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/Textures/t_qk_perlin_noise.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/Textures/T_qk_scanlines.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/VFX/NS_TeleportTrace.uasset",
 				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Input/Actions/IA_Turn.uasset"
 			]
 		}
