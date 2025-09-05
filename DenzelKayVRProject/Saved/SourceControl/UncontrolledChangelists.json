@@ -30,6 +30,11 @@
 				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/Textures/T_qk_scanlines.uasset",
 				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uasset",
 				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/VFX/NS_TeleportTrace.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/Characters/MannequinsXR/Meshes/SKM_QuinnXR_left_Physics.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/Characters/MannequinsXR/Meshes/SKM_QuinnXR_right_Physics.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/Interfaces/Grab.uasset",
+				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/Blueprints/GunGrip.uasset",
 				"C:/Users/kay_2/Documents/GitHub/UE5_Denzel_Kay/DenzelKayVRProject/Content/VRTemplate/Input/Actions/IA_Turn.uasset"
 			]
 		}
